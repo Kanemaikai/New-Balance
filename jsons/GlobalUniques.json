@@ -1,0 +1,6 @@
+{
+    "name": "Global uniques",
+    "uniques": [
+        "[land units] takes [10] damage <with [20]% chance> <upon ending a turn in a [{Desert} {Foreign Land}] tile>"
+    ]
+}
