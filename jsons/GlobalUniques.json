@@ -1,0 +1,23 @@
+{
+    "name": "Global uniques",
+    "uniques": [
+        "[-33]% Culture cost of natural border growth [in all cities]",
+        "[+50]% Production when constructing [All] units [in all cities]",
+        
+        "[+40]% XP gained from combat",
+        "[+33]% Strength <vs cities> <for [Melee] units>",
+        "[-33]% Strength <vs cities> <for [Ranged] units>",
+        "[-20]% Strength <vs [Wounded] units> <for [Ranged] units>",
+        
+        "[+1 Production, +1 Science, +1 Gold, +2 Food] from all [Palace] buildings",
+        "[+100]% Yield from every [Improvement]",
+        "[-70]% construction time for [All] improvements",
+        "[+1] Movement <for [non-[Military]] units>",
+        "[+1] Movement <for [Ranged] units>",
+        "[+1] Movement <for [Scout] units>",
+        "[25]% Golden Age length",
+        
+        "[+1 Production] from every [Water resource] <in cities with a [Seaport]>",
+        "[+2 Food] from all [Harbor] buildings"
+    ]
+}
